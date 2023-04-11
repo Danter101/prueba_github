@@ -3,5 +3,7 @@ public class EjemploGit_jlrf {
 		System.out.println("Ejemplo de Git");
 		
 		String nombre = "Jose Luis";
+		
+		System.out.println(nombre);
 	}
 }
